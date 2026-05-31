@@ -3,7 +3,7 @@
 A machine learning pipeline for classifying 7 human emotions from raw audio files, built for my Final Project in ELEC 378.
 See [ELEC 378 Audio Emotion Classification Kaggle Competition](https://www.kaggle.com/competitions/elec-378-sp-2025-audio-emotion-classification) for more details.
 
-**Final Kaggle scores:** 72.535% (public leaderboard) / 71.853% (private leaderboard)
+**Final Kaggle scores:** 72.535% accuracy on public dataset / 71.853% accuracy on complete dataset, including unknown data
 
 *Team: Anthony Zhang, Ankit Burudgunte, John David Villarreal*
 
